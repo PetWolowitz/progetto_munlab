@@ -1,0 +1,28 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4F124E",
+        "titleBar.activeBackground": "#6F1A6D",
+        "titleBar.activeForeground": "#FEFCFE"
+    },
+    "cSpell.words": [
+        "Attesa",
+        "attivita",
+        "Cancellata",
+        "Confermata",
+        "costo",
+        "descrizione",
+        "disponibili",
+        "Disponibilita",
+        "durata",
+        "massimi",
+        "numero",
+        "partecipanti",
+        "posti",
+        "PRENOTAZIONE",
+        "prenotazioni",
+        "simplejwt",
+        "STATO",
+        "tipo",
+        "utente"
+    ]
+}
