@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 
 class Attivita(models.Model):
     # Definizione delle scelte per il tipo di attività
-    TIPO_Attivita = [
+    TIPO_ATTIVITA = [
         ('EDU', "Educativa"),
         ('DOM', "Domenicale"),
         ('ALT', "Altro"),
@@ -15,7 +15,7 @@ class Attivita(models.Model):
     costo = models.DecimalField(max_digits=6, decimal_places=2)
     durata = models.DurationField()
     posti_massimi = models.PositiveIntegerField()
-    tipo = models.CharField(max_length=3, choices=TIPO_Attivita)
+    tipo = models.CharField(max_length=3, choices=TIPO_ATTIVITA)
 
     def __str__(self):
         

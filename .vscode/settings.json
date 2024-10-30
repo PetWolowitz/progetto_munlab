@@ -5,11 +5,13 @@
         "titleBar.activeForeground": "#FEFCFE"
     },
     "cSpell.words": [
+        "Accedi",
         "Attesa",
         "attivita",
         "Cancellata",
         "Confermata",
         "costo",
+        "Credenziali",
         "descrizione",
         "disponibili",
         "Disponibilita",
@@ -23,6 +25,7 @@
         "simplejwt",
         "STATO",
         "tipo",
-        "utente"
+        "utente",
+        "valide"
     ]
 }
